@@ -1,0 +1,73 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(0, 81, 128);
+    font-size: 40px;
+}
+
+h4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgba(0, 0, 0, 0.884);
+    font-size: 25px;
+}
+
+mark{
+     background-color: rgb(210, 104, 252);
+}
+.boxe1 {
+    text-align: center;
+}
+
+p {
+    line-height: 1.5;
+    max-width: 1000px;
+    text-align: justify;
+    margin: 15px auto;
+}
+
+.comentario{
+    text-align: center;
+}
+
+.luta {
+    text-align: center;
+}
+
+.luta img {
+  display: block;
+  margin: 10px auto;
+  border-radius: 8px;
+}
+
+.juntarimagem {
+justify-content: space-around ;
+display: flex ;
+margin: 20px;
+
+}
+
+.link1 {
+    text-align: center;
+}
+.video1 {
+    text-align: center;
+}
+
+
+.ranking {
+  text-align: center;       
+}
+
+.ranking ul,
+.ranking ol {
+  list-style-position: inside;
+  padding-left: 0;
+  margin: 0;                   
+}

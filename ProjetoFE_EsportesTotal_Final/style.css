@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: #f7f7f7;
+    color: #222;
+    margin: 0;
+    padding: 30px;
+}
+
+
+h3 {
+    color: #ff0000;
+    margin-top: 20px;
+    font-size: 1.4em;
+}
+
+/* Parágrafos */
+p {
+    max-width: 800px;
+    margin: 15px auto;
+    line-height: 1.6;
+    font-size: 1.05em;
+}
+
+/* Destaques com <mark> */
+mark {
+    background-color: #40ff00;
+    color: #1500ff;
+    padding: 2px 4px;
+    border-radius: 4px;
+}
+
+/* Destaques dentro de títulos ( Basquete Feminino Nacional”) */
+h3 mark {
+    color: #3c0505;
+}
+
+/* Links */
+a {
+    color: #3c408f;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #234f8a;
+    text-decoration: underline;
+}
+
+/* Centralizar imagens */
+.imagem-centro {
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15);
+}
+
+

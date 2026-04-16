@@ -1,0 +1,91 @@
+
+body {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    background-color: hsl(0, 0%, 91%); 
+    color: #030c0f;
+}
+
+/* Estilo para parágrafos */
+p {
+    margin-bottom: 15px;
+    padding: 0 20px;
+}
+
+/* Estilo para as imagens */
+img {
+    max-width: 250px;
+    height: auto;
+    display: block;
+    margin: 10px auto;
+    border: 3px solid #12E02E;
+    border-radius: 8px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilo para os links */
+a {
+    color: #12E02E; 
+    text-decoration: none; 
+    padding: 0 20px;
+    display: block; 
+}
+
+a:hover {
+    text-decoration: underline; 
+}
+
+
+/* SEÇÃO: ESTILOS DE CABEÇALHO  */
+
+#cabecalho-principal {
+    background-color: #12E0BB; 
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    margin-bottom: 30px;
+}
+
+h1 {
+    font-size: 36px;
+    margin: 0;
+}
+
+
+
+/* SEÇÃO: ESTILOS DE SEÇÃO*/
+
+
+/* Aplicado ao <div> que envolve cada competição */
+.competicao {
+    background-color: white;
+    margin: 20px auto;
+    padding-bottom: 20px;
+    max-width: 800px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #EF9C82; 
+    background-color: #1D4241;
+    color: white;
+    padding: 10px 20px;
+    margin-top: 0;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+h3, h4 {
+    color: #12B1E0;
+    padding: 0 20px;
+    margin-top: 25px;
+}
+
+p strong {
+    color: #c0392b; /* Vermelho para destaque */
+    font-weight: bold;
+}
+
+.campeao {
+    padding-left: 40px;
+}

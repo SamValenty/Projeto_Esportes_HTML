@@ -1,0 +1,116 @@
+/*Estilo das páginas*/
+.pagina{
+    background-color: #00024e;
+    padding: 15px 80px;
+}
+
+/* Construção do menu*/
+.menu {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
+
+.menu table {
+  border-collapse: collapse;
+  background: #000000;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 0 15px rgba(33, 229, 248, 0.3);
+}
+
+.menu th {
+  padding: 20px 30px;
+  text-align: center;
+  border-right: 1px solid #222222;
+}
+
+/* Links do menu*/
+.menu a {
+  color: aqua;
+  font-weight: bold;
+  transition: all 0.3s ease;
+}
+
+.menu a:hover {
+  color: #ffffff;
+  background: #5b15fd;
+  padding: 10px 20px;
+  border-radius: 8px;
+}
+
+/*Estilos para Titulos h1 e h2*/ 
+.titulo{
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 10px;
+border-radius: 12px;
+background-color: aqua;
+color: black;
+font-weight: bold;
+font-size: 60px;
+}
+
+h2{
+display: flex;
+justify-content: center;
+align-items: center;
+background: #ffffff;
+color:  #5b15fd;
+font-size: 48px;
+}
+
+.logo{
+  display: block;
+  margin: 20px auto;
+  width: 120px;
+  border:2px solid black;
+  border-radius: 20px;
+  box-shadow: 1px 4px 10px rgba(0, 0, 0, 0.15);
+}
+
+
+
+/*Rodapé*/
+.rodape{
+    text-align: center;
+    padding: 15px 80px;
+    background:#00024e;
+}
+
+.rodape__logo{
+  margin-top: 20px;
+
+  height: 60px;
+  width: 60px;
+}
+
+.rodape__lista{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    font-size: 16px;
+    margin: 32px 0;
+}
+
+.lista__link a{
+    text-decoration: none;
+    color: #ffffff;
+    margin-left: 1em;
+}
+
+.rodape__texto{
+    font-size: 14px;
+    color: gray;
+    display: flex;
+    justify-content: center;
+}
+
+.lista__link a:hover{
+    color: blue;
+}
+
+.lista__link a:active{
+    color:purple;
+}
