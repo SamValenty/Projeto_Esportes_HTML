@@ -1,10 +1,10 @@
 # Projeto_Esportes_Total
 🏆 Esportes Total<br>
-O Esportes Total é um projeto web desenvolvido com foco em Front-End, que reúne informações sobre diferentes modalidades esportivas de forma organizada, visual e interativa.
+O Esportes Total é um projeto web desenvolvido com foco em Front-End, que reúne informações sobre diferentes modalidades esportivas de forma organizada, visual e interativa.<br>
 <br>
 📌 Sobre o projeto<br>
 A proposta do projeto é criar uma plataforma simples e intuitiva onde o usuário pode navegar por diferentes esportes, como futebol, basquete, vôlei, tênis, esportes de combate, entre outros.
-Cada página apresenta conteúdos informativos, imagens e links atualizados sobre competições, equipes e destaques do mundo esportivo.
+Cada página apresenta conteúdos informativos, imagens e links atualizados sobre competições, equipes e destaques do mundo esportivo.<br>
 <br>
 🚀 Tecnologias utilizadas<br>
 HTML5<br>
